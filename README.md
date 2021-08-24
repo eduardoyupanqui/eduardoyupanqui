@@ -4,7 +4,7 @@ Talking about Personal Stuffs:
 <!--
 **eduardoyupanqui/eduardoyupanqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I'm an software engineer currently at SUNEDU.
+- 🔭 I'm an software engineer currently.
 - :house: I live in Lima Perú
 - 🌱 I’m currently learning software architecture ("microservices", "design system pattern", "event-driven development",  "cloud-native")
 - 👷‍♀️ Building a Yup.* libraries for my personal project
