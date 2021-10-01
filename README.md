@@ -8,7 +8,7 @@ Talking about Personal Stuffs:
 - :house: I live in Lima Perú
 - 🌱 I’m currently learning software architecture ("microservices", "design system pattern", "event-driven development",  "cloud-native")
 - 👷‍♀️ Building a Yup.* libraries for my personal project
-- 💬 Ask me about .NET, ASP.NET Core, Angular, React, Javascript, Docker, Kubernetes, DevOps.
+- 💬 Ask me about .NET, ASP.NET Core, Angular, React, Javascript, AWS, Azure, Docker, Kubernetes, DevOps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eduardoyupanqui/), [Twitter](https://twitter.com/eduyupanqui)
 - 😄 Pronouns: Git
 - ⚡ Fun fact: Reading and Play Dota2
@@ -30,6 +30,8 @@ Talking about Personal Stuffs:
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
